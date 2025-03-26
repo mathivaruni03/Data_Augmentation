@@ -3,7 +3,7 @@ Jupyter Notebook demonstrating data augmentation techniques using Keras for imag
 Data Augmentation Using Keras
 This repository contains a Jupyter Notebook demonstrating data augmentation techniques using Keras for image classification tasks.
 
-Data augmentation is a crucial step in deep learning to artificially expand a dataset by applying transformations like rotation, flipping, scaling, and shearing to improve model generalization.
+Data augmentation is a crucial step in deep learning to artificially expand a dataset by applying transformations like rotation, flipping, scaling, and shearing to improve model generalization
 
 🚀 Implementation Steps:
 Import Required Libraries: TensorFlow, Keras, NumPy, Matplotlib.
